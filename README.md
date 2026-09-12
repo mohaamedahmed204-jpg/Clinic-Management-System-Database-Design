@@ -109,7 +109,7 @@ Restore the Database (MS SQL Server):
 
 * Right-click Databases -> Restore Database...
 
-* Select **Device** and locate the provided **P1-Clinic.bak** file.
+* Select **`Device`** and locate the provided **`P1-Clinic.bak`** file.
 
 * Click OK to restore and test SQL queries/schema.
 
@@ -120,4 +120,11 @@ Restore the Database (MS SQL Server):
 * Import the provided **.drawio** file to view or edit the ERD.
 
 ---
+
+## 🙏 Acknowledgments
+
+This project is part of the Programming Advices Training Track led by:
+
+    👨‍🏫 Dr. Mohamed Abouhadhood
+    💻 Platform: Programming Advices
 
